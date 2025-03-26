@@ -1,6 +1,6 @@
 # Hi, I'm Sena 👋
 
-🌱 I’m a Frontend Developer.
+🌱 I’m a Frontend Developer. </br>
 📫 How to reach me: senakms98@gmail.com 
 
 
